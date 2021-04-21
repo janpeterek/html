@@ -1,0 +1,17 @@
+table, td, th {
+    border: 1px solid rgb(43, 39, 39);
+    border-collapse: collapse
+}
+
+table { 
+    width: 75%;
+    height: 25%;
+}
+
+[colspan] {
+    background-color: rgb(194, 32, 167);
+}
+[rowspan] {
+    background-color: rgb(128, 182, 107);
+}
+
